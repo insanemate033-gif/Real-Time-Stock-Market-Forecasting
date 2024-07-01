@@ -3,11 +3,6 @@
 This repository contains an implementation of ensemble deep learning models to forecast or predict stock price. We used Alpha Vantage 
 API to pull stock data(open,high,low,close,volume) and scraped news headlines from inshorts to perform sentiment analysis.
 
-The code and the images of this repository are free to use as regulated by the licence and subject to proper attribution:
-```
-Shah, Raj and Tambe, Ashutosh and Bhatt, Tej and Rote, Uday, Real-Time Stock Market Forecasting using Ensemble Deep Learning and Rainbow DQN. 
-Available at SSRN: https://ssrn.com/abstract=3586788 or http://dx.doi.org/10.2139/ssrn.3586788.
-```
 ## Architecture
 ![](imgs/arch.PNG)
 
@@ -24,7 +19,7 @@ conda activate envname
 Use ```conda deactivate``` to deactivate the environment
 - Clone this repository
 ```
-git clone --depth 1 https://github.com/THINK989/Real-Time-Stock-Market-Prediction-using-Ensemble-DL-and-Rainbow-DQN.git && cd Real-Time-Stock-Market-Prediction-using-Ensemble-DL-and-Rainbow-DQN
+git clone --depth 1 https://github.com/insanemate033-gif/Real-Time-Stock-Market-Prediction-using-Ensemble-DL-and-Rainbow-DQN.git && cd Real-Time-Stock-Market-Prediction-using-Ensemble-DL-and-Rainbow-DQN
 ```
 - Install the requirements
 ```
